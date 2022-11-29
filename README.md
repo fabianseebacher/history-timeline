@@ -9,5 +9,5 @@ Dash web app to explore histroical events in relation to each other. Maybe this 
 ## Desired features
 
 * Staggered view, where events from the same category are layed out to use available space more efficiently
-* Button to show similar events 
+* Button to show all events in the same time frame as currently shown events
 * Automatically retrieve events from web APIs
